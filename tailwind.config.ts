@@ -50,7 +50,7 @@ const config: Config = {
           "4": "hsl(var(--chart-4))",
           "5": "hsl(var(--chart-5))",
         },
-        green: "hsl(var(--green))",
+        "light-green": "hsl(var(--light-green))",
         gray: {
           light: "hsl(var(--light-gray))",
           dark: "hsl(var(--dark-gray))",
